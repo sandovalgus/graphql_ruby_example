@@ -7,7 +7,7 @@ Install dependencies:
 
 ```
 bundle install
-**Ejemplos de comando en la colsola de grapqhl**
+
 rails db:create
 rails db:migrate
 rails db:seed
